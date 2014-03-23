@@ -26,7 +26,6 @@ p {
   bottom: 0;
   margin: 0;
 }
-<<<<<<< HEAD
 small {
   opacity: 0;
   }
@@ -36,8 +35,6 @@ small {
   .show-description small {
     opacity: 1;
     }
-=======
->>>>>>> 0f958c3c6cf9900b29f742681e52998744a91a71
 
 .first{
   background-image: url("http://0.tqn.com/d/bbq/1/0/W/l/103250463_resize.jpg");
@@ -59,11 +56,7 @@ small {
  color: #aaaaaa;
 }
 .headboard {
-<<<<<<< HEAD
  border: 2px solid burlywood;
-=======
- border: 7px solid burlywood;
->>>>>>> 0f958c3c6cf9900b29f742681e52998744a91a71
  border-radius: 20px;
  
 }
@@ -97,15 +90,7 @@ h2 {
   background-image: linear-gradient(to bottom, #444444, #999999); / Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
     
 }
-<<<<<<< HEAD
 #form li {
 	display: block;
 	margin-bottom: 3px;
 }
-=======
-
-#form li {
-	display: block;
-	margin-bottom: 3px;
-}
->>>>>>> 0f958c3c6cf9900b29f742681e52998744a91a71
